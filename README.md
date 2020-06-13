@@ -1,4 +1,4 @@
-# Teachingmachines
+# Teaching Machines
 Performed Data Mining and Machine Learning using various algorithms like Linear Regression, Random Forest, Naive Bayes and Logistic. 
 1.Logistic and Decision Tree algorithms were performed to predict the US Adult Income. (https://archive.ics.uci.edu/ml/datasets/Adult)
 2.Linear Regression algorithm was used for estimating the prices of housing market in Melbourne.
